@@ -17,7 +17,7 @@ export function Destination() {
             <img src={data.destinations[activDest].images.png} />
           </article>
           <article className=" text-center flex flex-col gap-7 items-center px-5 w-full lg:w-1/2 lg:text-start lg:items-start">
-            <div className="flex gap-4">
+            <div className="flex gap-5">
               {data.destinations.map((planet, index) => {
                 return (
                   <p
