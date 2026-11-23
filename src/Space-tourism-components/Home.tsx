@@ -18,7 +18,7 @@ export function Home() {
             world experience!
           </p>
         </article>
-        <div className="flex items-end justify-center w-full min-h-130">
+        <div className="flex items-center lg:items-end justify-center w-full min-h-130">
           <div className="bg-white text-3xl uppercase rounded-full size-60 flex items-center justify-center tracking-wider font-medium">
             explore
           </div>
