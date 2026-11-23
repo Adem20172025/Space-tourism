@@ -6,7 +6,7 @@ export function Destination() {
     <section className="bg-[url('/assets/destination/background-destination-mobile.jpg')] md:bg-[url('/assets/destination/background-destination-tablet.jpg')] lg:bg-[url('/assets/destination/background-destination-desktop.jpg')] text-white min-h-screen bg-cover bg-center bg-no-repeat w-full flex items-center justify-center">
       <section className="max-w-7xl flex flex-col gap-17 mt-35 lg:mt-40 items-center mb-15 w-full">
         <h1 className="px-5 border flex gap-2 lg:gap-5 md:justify-start text-center lg:text-start justify-center text-3xl uppercase font-light tracking-widest w-full">
-          <span className="font-semibold border text-white/30 text-end lg:text-start">01</span>pick your
+          <span className="w-full lg:w-fit font-semibold border text-white/30 text-end lg:text-start">01</span>pick your
           destination
         </h1>
         <section
